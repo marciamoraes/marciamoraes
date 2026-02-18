@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Marcia Moraes, I am an Assistant Professor in the Computer Science Department at Colorado State University, USA.
+
+🔭 I’m currently working on Computer Science Education projects.
 <!--
 **marciamoraes/marciamoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
